@@ -17,7 +17,7 @@ Quality practices are built into every stage: unit and integration tests for new
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
 - [Execution & Tracking](octoacme-execution-and-tracking.md)
-- [Risk Management &amp; Communication](octoacme-risks-and-communication.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release &amp; Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
