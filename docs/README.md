@@ -22,6 +22,10 @@ Quality practices are built into every stage: unit and integration tests for new
 - [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
 
+## Templates & Checklists
+- [Onboarding Checklist Template](onboarding-checklist-template.md) - Structured 4-week onboarding plan for new team members
+- [Role Handoff Checklist](role-handoff-checklist.md) - Comprehensive handoff guides for cross-role collaboration
+
 ## How to use these docs
 - Keep the Project One-pager and key artifacts updated in each project repo under docs/ or .copilot/.  
 - Use the issue template (/.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to propose updates to any process document.
